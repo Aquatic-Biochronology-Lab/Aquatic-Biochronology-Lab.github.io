@@ -56,9 +56,6 @@ float:right;
 goomapalign {
     margin-right: auto;
     margin-left: auto;
-    width: 70%;
-    height: 400px;
-    margin-top: 65px;
     border:3px solid #999;
     background-color:#333;
     }
@@ -66,5 +63,5 @@ goomapalign {
 contacttext {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.5em;
-    padding: 10px;
+    padding: 0px;
 }
