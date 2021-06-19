@@ -91,7 +91,7 @@ goomapalign {
 .dropdown {
   position: relative;
   display: inline-block;
-    width: 150px; 
+    width: 110%; 
 }
 
 .dropdown-content {
