@@ -82,25 +82,25 @@ goomapalign {
 /* Dropdown button structure */
 .dropbtn {
     background-color: white;
+    color: #999;
     border: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #999;
     padding: 0px;
-    font-weight: bold;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
+    width: 120%; 
 }
 
 .dropdown-content {
+    color: #999; 
     display: none;
     position: absolute;
     background-color: #f1f1f1;
     /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
     z-index: 1;
-    color: #999; 
 }
 
 .dropdown-content a {
@@ -108,6 +108,7 @@ goomapalign {
     text-decoration: none;
     display: block;
     color: #333;
+    background-color: #f1f1f1;
     font-size: 16px;
 }
 
@@ -119,8 +120,7 @@ goomapalign {
 
 .dropdown:hover .dropdown-content { 
     display: block; 
-    color: #333; 
-    background-color: black;
+    background-color: #999;
 }
 
 .dropdown:hover .dropbtn {
