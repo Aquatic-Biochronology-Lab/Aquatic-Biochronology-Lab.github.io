@@ -112,6 +112,7 @@ goomapalign {
 
 .dropdown-content a:hover { 
     background-color: #ddd;
+    text-decoration: underline;
 }
 
 .dropdown:hover .dropdown-content { 
