@@ -83,16 +83,16 @@ goomapalign {
 /* Dropdown button structure */
 .dropbtn {
     background-color: white;
-    color: #999;
+    text-decoration: none;
     border: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
 }
 
 .dropdown {
-  position: relative;
-  display: inline-block;
-    width: 110%; 
+    position: relative;
+    display: inline-block;
+    width: 200px; 
 }
 
 .dropdown-content {
